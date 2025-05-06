@@ -53,7 +53,7 @@ To explore and visualize sales data across different channels, customer segments
 
 ## 🖼️ Dashboard Screenshot
 
-Screenshot 2025-05-06 185907.png
+Dashboard_screenshot.png
 
 ---
 
